@@ -1,0 +1,1 @@
+I have set up the server to run on POSTGRES using SUPABASE. You can start the server by running "npm run dev". The database is hosted on the Supabase platform, and I have already pushed the environment file, so you can run it directly on your PC
