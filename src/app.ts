@@ -115,7 +115,7 @@ app.post("/processOrders", async (req: Request, res: Response) => {
 app.get("/", (req: Request, res: Response) => {
   res
     .status(200)
-    .json({ output: "this is haridk maind!, your server is ready" });
+    .json({ output: "this is Viraj Bhosale!, your server is ready" });
 });
 
 app.post("/processArray", async (req: Request, res: Response) => {
